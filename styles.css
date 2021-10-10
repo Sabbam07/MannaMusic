@@ -1,0 +1,25 @@
+body{
+font-family:sans-serif;
+background: #FF512F;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F09819, #FF512F);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F09819, #FF512F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+audioplayer{
+audioplayer-align:center;
+
+        #playlist .current-song a{
+            color:black;
+        }
+header{
+	
+	background-color:lightgreen;
+	color:black;
+	text-align:center;
+	overflow:hidden;
+	border-style:solid;
+	border-width:2px;
+	border-color:black;
+	padding:0px;
+	
+}
